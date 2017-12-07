@@ -1,3 +1,3 @@
 #!/bin/bash
-forever start --uid nodeapp /srv/mynodeapp/server.js
+forever start /srv/mynodeapp/server.js
 
